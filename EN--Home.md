@@ -6,16 +6,16 @@
 
 
 
-[1. Purpose](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-1.-Purpose)
+[1. Purpose](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-1.-Purpose)
 
-[2. Download](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-2.-Download)
+[2. Download](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-2.-Download)
 
-[3. Initial configuration](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-3.-Settings)
+[3. Initial configuration](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-3.-Settings)
 
-[4. Installation via InstallUtil.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-4.-Installation-via-InstallUtil.exe)
+[4. Installation via InstallUtil.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-4.-Installation-via-InstallUtil.exe)
 
-[5. Install with installer](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-5.-Installation-with-installer)
+[5. Install with installer](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-5.-Installation-with-installer)
 
-[6. Message samples](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-6.-Message-samples)
+[6. Message samples](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-6.-Message-samples)
 
-[7.Examples of commands ](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN-7.-Examples-of-commands)
+[7.Examples of commands ](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-7.-Examples-of-commands)
