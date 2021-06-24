@@ -3,9 +3,9 @@ Free, open-source software allows you to add for MS Windows OS the second authen
 
 Documentation:
 
-[Wiki English](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/EN--Home)
+[Wiki English](https://github.com/Constantine-SRV/ServiceLogonMultifactor1/wiki/EN--Home)
 
-[Wiki Русский](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/RU--Home)
+[Wiki Русский](https://github.com/Constantine-SRV/ServiceLogonMultifactor1/wiki/RU--Home)
 
 Screens example:
 
