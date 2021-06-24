@@ -1,4 +1,4 @@
-Самым простым способом является запустить консольную программу [ConsoleReadTelegramBot.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/Distr_MSI_EXE/ConsoleReadTelegramBot.exe) 
+Самым простым способом является запустить консольную программу [ConsoleReadTelegramBot.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/downloadAll/ConsoleReadTelegramBot.exe) 
 
 Ввести полученный ранее BotId, попросить пользователей написать этому боту свой логин и скопировать отображённые ChatId.
 
