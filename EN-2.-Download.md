@@ -1,4 +1,4 @@
-All files here: [https://github.com/Constantine-SRV/ServiceLogonMultifactor/tree/master/downloadAll)
+All files here: [https://github.com/Constantine-SRV/ServiceLogonMultifactor/tree/master/downloadAll]
 1. [ServiceloginMultiFactor.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/Distr_MSI_EXE/ServiceLogonMultifactor.exe)  the service for installUtill installation;
 2. [Service.Config.xml](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/Distr_MSI_EXE/Service.Config.xml) config example;
 3. [Service.Config_ru.xml](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/Distr_MSI_EXE/Service.Config_ru.xml)  config example for Russian OS
