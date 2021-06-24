@@ -1,6 +1,6 @@
 Если Вы не хотите использовать инсталлятор, при самостоятельной компиляции исполнительного файла из исходных кодов, либо хотите чтобы этот сервис не появлялся в списке установленных программ, то данный сервис можно установить с помощью стандартной утилиты InstallUtil.exe.
 
-Положите скомпилированный или [скачанный](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/Distr_MSI_EXE/ServiceLogonMultifactor.exe) файл ServiceLogonMultifactor.exe в рабочий каталог, [отредактируйте ](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/wiki/RU-3.-Начальные-настройки.) и положите рядом файл Service.Config.xml 
+Положите скомпилированный или [скачанный](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/downloadAll/ServiceLogonMultifactor.exe) файл ServiceLogonMultifactor.exe в рабочий каталог, [отредактируйте ](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/RU-3.-Начальные-настройки.) и положите рядом файл Service.Config.xml 
 
 Далее из командной строки или PowerShell с правами администратора:
  
