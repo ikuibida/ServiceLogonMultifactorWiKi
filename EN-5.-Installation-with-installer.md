@@ -1,5 +1,5 @@
 Grab installer 
-[ServiceLogonMultiFactor.msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/downloadAll/ServiceLogonMultiFactor.msi), file with parameters of installer [ServiceLogonMultiFactor.ini](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/Distr_MSI_EXE/ServiceLogonMultiFactor.ini) and configuration file of the service Service.Config.xml [(look at section 3)](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-3.-Settings)
+[ServiceLogonMultiFactor.msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/downloadAll/ServiceLogonMultiFactor.msi), file with parameters of installer [ServiceLogonMultiFactor.ini](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/downloadAll/ServiceLogonMultiFactor.ini) and configuration file of the service Service.Config.xml [(look at section 3)](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-3.-Settings)
 
 Check, if file has digital signature:
 ![cert msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/documentation/MSI-CERT-2.JPG)
