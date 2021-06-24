@@ -4,7 +4,7 @@ Grab installer
 Check, if file has digital signature:
 ![cert msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/documentation/MSI-CERT-2.JPG)
 
-If you want to edit default setting, edit file ServiceLogonMultiFactor.ini
+If you want to change the default settings, edit file ServiceLogonMultiFactor.ini
 
 Launch installer
 
