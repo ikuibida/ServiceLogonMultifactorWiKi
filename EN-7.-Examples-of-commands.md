@@ -1,6 +1,6 @@
  **<span class="smallcaps">Commands, that you can send to the service</span>**
 
-7.1.  Command contains of two or three parts with whitespace as delimeter 
+7.1.  Command consists of two to three parts with whitespace as delimeter 
 
         1.  Computer name or all (all computers)
 
