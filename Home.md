@@ -1,5 +1,5 @@
 #     ServiceLogonMultiFactor (SLMF)
-Free, open-source software allows you to add into MS Windows OS the second authentication factor for users logging into the computer locally or via RDP.
+Free, open-source software allows you to add into MS Windows OS, the second authentication factor for users logging into the computer locally or via RDP.
 
 Documentation:
 
