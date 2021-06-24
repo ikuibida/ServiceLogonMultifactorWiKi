@@ -2,7 +2,7 @@ If you don`t want to use installer, and would like to build and compile executio
 to launch the service and hide its presence in programs and features, then you can install this service using default utility InstallUtil.exe.
 
 
-Put compiled or [downloaded](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/Distr_MSI_EXE/ServiceLogonMultifactor.exe)
+Put compiled or [downloaded](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/downloadAll/ServiceLogonMultifactor.exe)
 file ServiceLogonMultifactor.exe in working directory, [edit](https://github.com/Constantine-SRV/ServiceLogonMultifactor/wiki/EN-3.-Settings)
 and put it beside Service.Config.xml
 
