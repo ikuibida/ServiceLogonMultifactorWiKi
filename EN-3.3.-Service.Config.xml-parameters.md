@@ -34,7 +34,7 @@ Use "true" and "false" without capital letters. In this version, there is no aut
 
     time before session disconnection messages appears. command - msg.exe \<session ID> \<text>
 
-3.3.8.  **disconnectIfNoAnswer**="True"
+3.3.8.  **disconnectIfNoAnswer**="true"
 
     disconnect session if no answer.
 
