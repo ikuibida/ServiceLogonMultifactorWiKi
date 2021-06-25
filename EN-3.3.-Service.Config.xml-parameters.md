@@ -46,7 +46,7 @@ Use "true" and "false" without capital letters. In this version, there is no aut
 
 3.3.10.  **CommandReadIntervalSec**="30"
 
-    Reading Telegram for commands and Service.Config.xml interval 
+    Reading Telegram for commands and save Service.Config.xml interval 
 
 3.3.11. **SingleServiceOnTheBot**="false"
 
