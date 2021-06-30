@@ -23,7 +23,7 @@
 
     C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /ServiceName=”service101” /description=”test service 101”    <your_folder>ServiceLogonMultifactor.exe
 
-<img src="https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/documentation/ServiceCustomName.jpg" style="width:7.75in;height:0.37778in" />
+<img src="https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/documentation/ServiceCustomName.jpg" style="width:7.75in;height:0.37778in" />
 
 При удалении так же необходимо указать имя сервиса, если при установке использовалось имя сервиса не по умолчанию.
 
