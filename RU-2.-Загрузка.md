@@ -9,4 +9,4 @@
 6. [ConsoleReadTelegramBot.exe](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/downloadAll/ConsoleReadTelegramBot.exe) консольная программа показывающая chatID пользователей и тексты сообщений;
 
 Перед установкой проверьте наличие подписи, подтверждающей подлинность дистрибутива
-![cert msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/documentation/MSI-CERT-2.JPG)
+![cert msi](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/documentation/MSI-CERT-2.JPG)
