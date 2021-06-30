@@ -9,4 +9,4 @@ Documentation:
 
 Screens example:
 
-![commands](https://github.com/Constantine-SRV/ServiceLogonMultifactor2/blob/master/documentation/commands.jpg)
+![commands](https://github.com/Constantine-SRV/ServiceLogonMultifactor/blob/master/documentation/commands.jpg)
